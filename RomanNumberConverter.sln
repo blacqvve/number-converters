@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter", "NumberConverter\NumberConverter.csproj", "{C5EB30B5-9CA1-4740-B400-2431ADE8A2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverterTests", "NumberConverterTests\NumberConverterTests.csproj", "{42639E54-2094-4304-A025-B7250DEE7D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5EB30B5-9CA1-4740-B400-2431ADE8A2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EB30B5-9CA1-4740-B400-2431ADE8A2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EB30B5-9CA1-4740-B400-2431ADE8A2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EB30B5-9CA1-4740-B400-2431ADE8A2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42639E54-2094-4304-A025-B7250DEE7D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42639E54-2094-4304-A025-B7250DEE7D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42639E54-2094-4304-A025-B7250DEE7D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42639E54-2094-4304-A025-B7250DEE7D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
